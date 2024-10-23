@@ -3,7 +3,6 @@
 ## Name: JAYASREE R
 ## Register No: 212223230087
 # AIM :
-To write a C program to implement a symbol table.
 ## To write a C program to implement a symbol table.
 # ALGORITHM
 1.	Start the program.
